@@ -78,5 +78,3 @@ check_guess(mix,playerguess)
 # In[28]:
 
 
-pdw
-
